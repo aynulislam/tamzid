@@ -1,0 +1,10 @@
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link:active{
+    color:goldenrod;
+}
+.navbar-light{
+    cursor: pointer;
+}
